@@ -6,9 +6,12 @@ public class HelloPrint {
 		// TODO Auto-generated method stub
 		for(int i=0; i<7; i++) {
 			System.out.println("Print i: "+i);
+<<<<<<< HEAD
 			System.out.println("Added new line")
 			System.out.println("Added 2 new line")
 
+=======
+>>>>>>> parent of f990cbb... New line added
 		}
 	}
 
