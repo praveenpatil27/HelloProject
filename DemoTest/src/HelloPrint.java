@@ -7,6 +7,7 @@ public class HelloPrint {
 		for(int i=0; i<7; i++) {
 			System.out.println("Print i: "+i);
 			System.out.println("Print i: "+i);
+			System.out.println("Print i: "+i);
 		}
 	}
 
